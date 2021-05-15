@@ -1,5 +1,7 @@
 key|weight|desc
-new|1|1
-relatively young|3|2
+very young|1|1
+relatively young|2|2
 matured|3|3
-quite ancient|1|4
+aging|3|4
+acinet|2|5
+quite ancient|1|6

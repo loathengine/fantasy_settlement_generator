@@ -14,7 +14,14 @@ import numpy
 import uuid
 import xml.etree.ElementTree as ElementTree
 
+
+
+firefoxbinary = "/usr/lib/firefox/firefox"
+geckodriverpath = '/home/loathengine/PycharmProjects/fantasy_settlement_generator/web/driver/'
+
 #randomseed = random.randint(10000000, 99999999)
+
+
 randomseed = 37433863
 uuid = str(uuid.uuid4())
 random.seed(uuid)
@@ -129,21 +136,23 @@ def get_settlement_tavern(t_n, t_l):
                                  tavern_menu[1], tavern_menu[2], tavern_menu[3], tavern_menu[4]]
     return xml_dict
 
-
 def web_get_city(size, seed, name):
     from selenium import webdriver
     from selenium.webdriver.firefox.options import Options
+    from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
     options = Options()
+    options.binary = FirefoxBinary('web/browser/firefox/firefox')
     options.headless = True
-    driver = webdriver.Firefox(options=options, executable_path='web/driver/geckodriver')
+    driver = webdriver.Firefox(executable_path='web/driver/geckodriver', options=options)
     driver.set_window_position(0, 0)
     driver.set_window_size(1024, 1098)
     driver.get('http://0.0.0.0:8000/MFCG.html?size=' + str(size) + '&seed=' + str(seed) + '&name=' + name)
     print("Headless Firefox Initialized")
     time.sleep(8)
     screenshot = driver.save_screenshot('web/cities/' + str(seed) + '.png')
+    driver.get("http://google.com/")
     driver.quit()
-##    driver.get('http://fantasycities.watabou.ru/?size=' + str(size) + '&seed=' + str(seed) + '&name=' + name)
+#    driver.get('http://fantasycities.watabou.ru/?size=' + str(size) + '&seed=' + str(seed) + '&name=' + name)
 
 
 def write_web_page(webout, seed):
@@ -246,7 +255,7 @@ web_page = web_page + '</div> \n'
 # Page one
 page_number += 1
 web_page = web_page + '<div class="phb" id="p2"> \n'
-web_page = web_page + '<div class="wide"><p><img src="' + uuid + ".png" + '" style="width:700px"></p></div> \n'
+web_page = web_page + '<div class="wide"><p><img src="image.png" style="width:700px"></p></div> \n'
 web_page = web_page + '<h3 id="background">Background Flavor</h3>'
 web_page = web_page + '<p>' + background_flavor + '</p>'
 web_page = web_page + '<div class="pageNumber"><p>' + str(
@@ -290,7 +299,7 @@ for x in settlement_shops.keys():
     else:
         web_page = web_page + x + ", "
 web_page = web_page + '</li>'
-web_page = web_page + '<li><strong>Number Of Inns/Taverns: </strong>2</li>'
+web_page = web_page + '<li><strong>Number Of Inns/Taverns: </strong>' + str(len(settlement_taverns)) + '</li>'
 web_page = web_page + '<li><strong>Inns/Taverns of Note: </strong>'
 for x in settlement_tavern_names.keys():
     if x == list(settlement_tavern_names.keys())[-1]:
@@ -340,4 +349,4 @@ web_page = web_page + '</div></main></body></html>'
 
 write_web_page(web_page, uuid)
 
-web_get_city(str(settlement_wards), str(randomseed), settlement_name)
+#web_get_city(str(settlement_wards), str(randomseed), settlement_name)
