@@ -1,0 +1,20 @@
+key|weight|desc
+Academic|3|Scholar’s hovel, schoolhouse, alchemist’s laboratory, library, archives, observatory, university.
+Craft|3|Blacksmith, tanner’s row, maker’s street, guild canton, loomworks.
+Culture|3|Tavern, playhouse, horse track, theater, tournament lists, menagerie, concert hall, arena, circus, colosseum,
+Foreign|3|An area defined by its cultural, ethnic, political, or linguistic composition –dwarftown, the foreign legation, the goblin ghetto, the Halfling hillside.  Language skills, Cultural Familiarities, Savoir Faire etc are appropriate.
+Graveyard|3|Graveyard, cemetery, crypt, mausoleum, necropolis.
+Green|3|Common, green, herbalist, fishery, garden, lumberyard, granary, farm, parkland.
+Hazardous|3|Old well, abandoned mine, crumbling ruins of the old town, sinkhole, blood forest, scree slope, buried canton, magma pit.
+Midtown Cledard|3|Historic: Old inn, founder’s house, ancient city, ruins district.
+Law and Order|3|Guardhouse, watchtower, gallows, gaol, prison, courthouse.
+Military|3|Barracks, parade grounds, archery range, tower, armory, keep, castle, citadel.
+Money|3|Pawnbroker, moneylender, jeweler, bank, gemcutter, mint.
+Plaza|3|Well, fountain, stele, statue, piazza, plinth, monument, town square, park, plaza, grand arcade.
+Poor|3|Shack, orphanage, slums, workhouse, shanty town.
+Portage|3|Jetty, roadhouse, mooring, stables, shipwright, lighthouse, caravanserai, lumberyard, docks, tradehouse, port, harbor, public baths, surgeon, hospice.
+Religious|3|Sacred font, shrine, temple, monastery, church, abbey, cathedral, ecclesiastical courts.
+Rich|3|Gentleman’s house, manor, finishing school, mansion, manor district. 
+Ruling|3|Town hall, lord’s manor, palace.
+Trade|3|Stall, trader’s row, market, auction house, fish market, guild-house, merchant’s guild, grand bazaar.
+Underworld|3|Back alley, mugger’s row, gang turf, smuggler’s den, thieves district.

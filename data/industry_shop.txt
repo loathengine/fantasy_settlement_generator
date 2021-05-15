@@ -1,0 +1,37 @@
+key|weight|desc
+Blacksmith
+Jeweler: Goldsmiths
+Jeweler: Gem Cutter
+Tailor
+Cobbler
+Toymaker
+Gambling House
+Alchemists
+Lawyer
+Brewery
+Carpentry: General
+Carpentry: Wood Carvings
+Cartography
+Leatherwork: General
+Mason
+Artist: Scribes
+Artist: Painter
+Artist: Sculpter
+Artist: Candlestick Maker
+Artist: Potters
+Tinkers
+Weaver
+Engineers / Archetech
+Barber
+Lumber Mill
+Grain Mill
+Locksmith
+Baker
+Stable
+Adventure Supplies
+Glassblower
+Fletcher
+Instrument Crafter
+Investigator
+Fishmonger
+Slaver

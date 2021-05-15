@@ -1,0 +1,10 @@
+key|weight|desc
+1|1|Lawful Good
+2|3|Neutral Good
+3|6|Chaotic Good
+4|9|Lawful Neutral
+5|9|True Neutral
+6|9|Chaotic Neutral
+7|6|Lawful Evil
+8|3|Neutral Evil
+9|1|Chaotic Evil

@@ -1,0 +1,5 @@
+key|weight|desc
+new|1|1
+relatively young|3|2
+matured|3|3
+quite ancient|1|4

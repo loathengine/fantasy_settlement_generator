@@ -1,0 +1,5 @@
+key|weight|desc
+mining
+farming
+forestry
+fishing

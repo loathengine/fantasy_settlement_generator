@@ -1,0 +1,12 @@
+key|weight|desc
+an autocrat|3|A single individual chosen by the people rules the community. This leader’s actual title can vary—mayor, burgomaster, lord, or even royal titles like duke or prince are common.
+the local colonists|3|A group of councilors leads the settlement.
+distant colonists|3|The settlement’s ruler is a figure-head for a distant colonial power: a magistrate, governor, or minor landed noble. He or she may have limited autonomy in running the colony, but ultimately answers to the colony’s founding power. Colonies are typically seen as resources for their founding government, not having much political power or influence.  The colony’s government is more concerned with making sure trade with and taxes paid to the homeland flow efficiently then the welfare of the colony’s inhabitants.
+a dynasty|3|Power is concentrated in the hands of a single family or a small group of closely related, inter-married families. These elites have ruled the settlement since its inception, and manipulated the power structure to ensure they remain in power.
+the military|3|The settlement is an armed garrison that exists solely to serve the military forces deployed there.
+an overlord|3|The community’s ruler is a single individual who was appointed control and command of the settlement.
+a secret syndicate|3|An unofficial or illegal group like a thieves’ guild rules the settlement—they may use a puppet leader to maintain secrecy, but the group members pull the strings in town.
+the theocrats|3|The settlement is ruled by its patron faith: secular and theological power are one and the same here. Priests, clerics and oracles decide every facet of life in the settlement.
+the plutocrats|3|The wealthiest and most influential merchants rule this settlement. Wealth is seen as a sign of good character, ethics and even divine favor. The poor have few, if any rights that the wealthy are bound to respect.
+utopian experimentalists|3|This idealistic settlement was founded upon lofty ideals.
+a counsel of elders|3|The oldest men (or women) in the settlement gather to listen to domestic and societal cases and pass judgment and give solutions if required.

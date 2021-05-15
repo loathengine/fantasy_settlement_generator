@@ -1,0 +1,8 @@
+key|weight|desc
+human|40
+dwarf|10
+elf|10
+gnome|10
+halfling|10
+half-elf|15
+half-orc|5

@@ -1,0 +1,55 @@
+key|weight|desc
+Shopkeeper
+Judge
+Brewer
+Sailor
+Artists: Painter
+Artists: Sculpter
+Artists: Candlestick Maker
+Artists: Musician
+Artists: Actor
+Artists: Comedian
+Artists: Bard
+Prize Fighter
+Scholar: Tutors
+Scholar: Teachers
+Servants
+Urchins
+Pickpocket
+Gangster
+Burglar
+Highwaymen
+Moneylender
+Assassin
+Nanny
+Nurse
+Laundress
+Prostitutes
+Doctor
+Barber
+Lumberjack
+Miner
+Fisherman
+Hunter
+Travelling Merchant
+Courier
+Courtisan
+Herald
+Page
+Gardener / Groundskeeper
+Banker
+Bureaucrat
+Diplomat
+Translator
+Locksmith
+Baker
+Stablehand
+Grocer
+Monk
+Glassblower
+Fletcher
+Instrument Crafter
+Investigator
+Fishmonger
+Slaver
+Slave

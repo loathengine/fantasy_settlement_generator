@@ -1,0 +1,24 @@
+key|weight|desc
+From the outside it looks dull, dark and crude. Large stones and marble details make up most of the building's outer structure.|3|Tavern
+It's impossible to see through the closed windows, but the quiet sorrow from within can be felt outside.|3|Tavern
+As you enter the tavern through the hardwooden door, you're welcomed by a feeling of discomfort and aromas of what's probably food, hopefully.|3|Tavern
+The bartender is talking to a customer and makes no effort to acknowledge your pressence.|3|Tavern
+It's as dreary inside as it is on the outside. Hardwood beams support the upper floor and the candles attached to them. The walls are decorated with mounted animal heads and small animals, though most have become worn and broken, given the place an even creapier feel.|3|Tavern
+The tavern itself is almost completely abandoned. The few people inside could be locals, could be lost souls, but whoever they are, you'd like to stay as for away from them as possible.|3|Tavern
+You did hear rumors about this tavern, supposedly it's infamous for something, but for the life of you you can't remember what for. Though juding by everything in this place, it must be something horrifying.|3|Tavern
+From the outside it looks homey, humble and warm. Logs and wooden pillars make up most of the building's outer structure.|3|Tavern
+It's difficult to see through the small, stained glass windows, but the enjoyment from within can be felt outside.|3|Tavern
+As you enter the tavern through the old, hardwooden door, you're welcomed by dancing people and laughing voices.|3|Tavern
+The bartender is extremely busy, but still manages to welcome you with a friendly nod.|3|Tavern
+It's as lovely inside as it is on the outside. Hardwooden beams support the upper floor and the large candles attached to them. The walls are decorated with sports memorabilia, it's clear the owner, and probably the customers, are avid fans.|3|Tavern
+The tavern itself is packed. Tourists seem to be the primary clientele here, which often leads to exciting evenings. Several long tables are occupied by, what looks like couples, lone travellers and anybody else who enjoys great company. The other, smaller tables are also occupied by people who are singing and dancing, occassionaly pulling an unsuspecting waitress amidst their dancing group. Even most of the stools at the bar are occupied, though nobody seems to mind more company.|3|Tavern
+You did hear rumors about this tavern, supposedly it's famous for something, but you can't remember what for. Though judging by the smells of grilled and cooked food coming from the kitchen, it must be the food. You manage to find a seat and prepare for what will undoubtedbly be a great evening.|3|Tavern
+From the outside it looks uninviting, dull and uncomfortable. Timber and well-crafted wooden beams make up most of the building's outer structure.|3|Tavern
+It's difficult to see through the small, stained glass windows, but the lifelessness from within can be felt outside.|3|Tavern
+As you enter the tavern through the thick, wooden door, you're welcomed by silence and a horrific scent.|3|Tavern
+The bartender is coughing into a dirty napkin and makes no effort to acknowledge your pressence.|3|Tavern
+It's as disgusting inside as it is on the outside. Rounded, wooden beams support the upper floor and the lanterns attached to them. The walls are covered in photographs of what were undoubtedly better times for this tavern. They're now more of a painful reminder of what it has turned into.|3|Tavern
+The tavern itself is almost completely abandoned. The few people inside you'd like to stay away from, but whoever they are, it's about the clearest sign you can get, telling you you don't belong.|3|Tavern
+You did hear rumors about this tavern, supposedly it's infamous for something, but for the life of you you can't remember what for. Though juding by the dirt and unhygienic circumstances, it's probably food poisoning.|3|Tavern
+The inn is a modest wooden building, with roughly hewn wooden tables and benches. A fake dragon's skull hangs over the hearth. Accommodations consist of several hammocks in the common room.|3|Tavern
+The inn is a two-storey stone-walled building, with a heather-thatched roof and a smooth stone floor. Accommodations consist of wooden cots near the hearth. The inn was rebuilt recently after a devastating fire.|3|Tavern

@@ -1,0 +1,21 @@
+key|weight|desc
+Lower East Fisp|3|
+Tais Town|3|
+Upper East Winwoopt|3|
+Upper West Spadlork|3|
+Pleecerd Vale|3|
+Downtown Scroppand|3|
+Remmest Side|3|
+Midtown Cledard|3|
+West Loattoatnift Grove|3|
+Splofiloast Valley|3|
+Lower East Gald|3|
+South Spleld|3|
+Girveb Road|3|
+Lower South Glostes|3|
+Newup Row|3|
+South Naippais|3|
+Upper Skugailt|3|
+Cloowergost Cross|3|
+Leorioctelf Circle|3|
+Citrine Woods|3|

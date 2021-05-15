@@ -1,0 +1,44 @@
+key|weight|desc
+Boiled Eggs and Dried Leek, Tankard of Stout (10 cp)
+Roasted Mutton and Dried Turnip, Tankard of Mead (10 cp)
+Stewed Onions, Mug of Cider (5 cp)
+Stewed Lentils, Mug of Cider (3 cp)
+Roasted Cabbage, Mug of Stout (4 cp)
+Stewed Lentils, Mug of Perry (4 cp)
+Pottage, Mug of Perry (4 cp)
+Blood pudding, Curds, Chicken eggs, Strawberries, Oatmeal (1 sp).
+Pork chop, Chicken eggs, Black beans, Apple (2 sp).
+Pork liver, Seaweed, Succotash, Rice, Fruitcake (2 sp).
+Goose eggs, Currants, Corn pone (1 sp).
+Ham, Quail eggs, Duck eggs, Melon, Sea oats (2 gp).
+Veal sweetbreads, Sharp cheese, Leeks, Peach (2 gp).
+Mixed grill, Collard greens, Chick peas, Rice, Plum pudding (2 gp).
+Soft cheese, Pomegranite, Corn pone (8 sp).
+Stewed Sausage and Soft Cheese, Tankard of Stout (8 cp)
+Roasted Mushrooms, Mug of Cider (4 cp)
+Stewed Eel and Turnip, Tankard of Cider (8 cp)
+Boiled Eggs and Buckwheat Bread, Tankard of Mead (11 cp)
+Stewed Mutton and Whey Cheese, Tankard of Perry (8 cp)
+Chicken Liver Pate and Bread (3 sp)
+Apple Stuffed Mushrooms (8 cp)
+Cheese rolls with a filling of nuts, honey and vegetables (6 cp)
+Roast Goose strewn with Caraway seeds (4 sp)
+Roasted and Smoked Pork Spareribs (6 sp)
+Braised Oxtails with Mushrooms (6 sp)
+Mutton, Lettuce and Tomato (5 sp)
+Grilled Fillet of Salmon (6 sp)
+Breaded Breast of Chicken, Whiskey and Mushroom Sauce (6 sp)
+Stuffed Mushrooms with Thyme and Creamcheese (4 sp)
+Smoked Fresh Trout Fillets (4 sp)
+Kito's Spiced Potatos (7 cp)
+Roast Stuffed Leg of Lamb with Mint Sauce (6 sp)
+Smoked Salmon Salad (4 sp)
+Boiled Sausage and Asparagus (9 cp)
+Pecan Bread and Sharp Cheese (5 cp)
+Millet Porridge (2 cp)
+Salted Pork and Sharp Cheese (11 cp)
+Walnut Bread (2 cp)
+Stewed Lentils (4 cp)
+Re-boiled dried Mutton (10 cp)
+Barley Porridge (3 cp)
+Re-boiled Salt Pork, Biscuits and Gravy (11 cp)

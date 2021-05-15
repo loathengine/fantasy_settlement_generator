@@ -1,0 +1,51 @@
+key|weight|desc
+The Unicorn Pub|3|Its not real
+The Brass Captain Inn|3|
+The Shallow Forester and One-eyed Grub Pub|3|
+The Minotaur Tavern|3|
+Bronze Majordomo Inn|3|
+The Mate Tavern|3|
+Flaming Heron Pub|3|
+The Advocate|3|
+The Golden Spirit Inn|3|
+Moody Horseman Inn|3|
+The Apothecary|3|
+Teeny Roebuck Inn|3|
+The Moody Hyena and Angry Vintner Pub|3|
+The Loud Sailor Inn|3|
+Laughing Vine and Dead Explorer|3|
+The Barrel|3|
+Lucky Midwife Arms|3|
+Witty Miner Inn|3|
+The Hunter|3|
+Black Beekeeper Inn|3|
+The Ball|3|
+The Mean Bleacher|3|
+The Moon|3|
+Golden Painter Pub|3|
+The Teamster Arms|3|
+The Plasterer|3|
+The Straight Cartographer Tavern|3|
+Gross Harpy Pub|3|
+Haughty Sculptor Inn|3|
+The Cowherd|3|
+Ancient Chamberlain Tavern|3|
+The Mace|3|
+The Turquoise Dove|3|
+The Brass Physician Tavern|3|
+The Seeker and Fishmonger|3|
+The Cooper and The Jester Inn|3|
+Dusty Eagle Tavern|3|
+Happy Nymph Inn|3|
+The Screeching Golem|3|
+Skinny Flail Inn|3|
+The Duchess Tavern|3|
+The Naked Mohel and Tall Bee Pub|3|
+The Red Rabbi Inn|3|
+Puny Mummy Inn|3|
+Arrogant Nightmare Pub|3|
+The Crooked Highwayman Pub|3|
+The Silver Horse and Rancid Cutler Tavern|3|
+The Bather and The Wheelwright Tavern|3|
+The Comet and Neanderthal|3|
+The Beetle Tavern|3|

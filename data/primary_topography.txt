@@ -1,0 +1,7 @@
+key|weight|desc
+coastal
+river
+flat lands
+foot hills
+plateau
+mountain

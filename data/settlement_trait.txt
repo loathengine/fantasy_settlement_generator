@@ -1,0 +1,25 @@
+key|weight|desc
+Abundance
+Abstinent
+Academic
+Adventure Site
+Artist’s Colony
+Asylum
+Broad Minded
+City of the Dead
+Cruel Watch
+Cultured
+Decadent
+Deep Traditions
+Defensible
+Defiant
+Eldritch
+Famed Breeders
+Gambling
+Insular
+Militarized
+Pious
+Racially Intolerant
+Resettled Ruins
+Rule of Might
+Trading Post
