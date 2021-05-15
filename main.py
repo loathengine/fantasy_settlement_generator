@@ -14,15 +14,6 @@ import numpy
 import uuid
 import xml.etree.ElementTree as ElementTree
 
-
-
-firefoxbinary = "/usr/lib/firefox/firefox"
-geckodriverpath = '/home/loathengine/PycharmProjects/fantasy_settlement_generator/web/driver/'
-
-#randomseed = random.randint(10000000, 99999999)
-
-
-randomseed = 37433863
 uuid = str(uuid.uuid4())
 random.seed(uuid)
 
@@ -136,6 +127,7 @@ def get_settlement_tavern(t_n, t_l):
                                  tavern_menu[1], tavern_menu[2], tavern_menu[3], tavern_menu[4]]
     return xml_dict
 
+
 def web_get_city(size, seed, name):
     from selenium import webdriver
     from selenium.webdriver.firefox.options import Options
@@ -152,7 +144,6 @@ def web_get_city(size, seed, name):
     screenshot = driver.save_screenshot('web/cities/' + str(seed) + '.png')
     driver.get("http://google.com/")
     driver.quit()
-#    driver.get('http://fantasycities.watabou.ru/?size=' + str(size) + '&seed=' + str(seed) + '&name=' + name)
 
 
 def write_web_page(webout, seed):
@@ -162,13 +153,17 @@ def write_web_page(webout, seed):
     file.close()
 
 
+# Path to xml file
 xml_file_path = 'data/monolith.xml'
 
-
+# Get highest level called env
 settlement_env = weighted_element_list(xml_file_path, "./ENV")
+# Get second level called biome
 settlement_env_biome = weighted_element_list(xml_file_path, "./ENV/BIOME")
+# Get third level called topography
 settlement_env_biome_topography = weighted_element_list(xml_file_path, "./ENV/BIOME[@name='" +
                                                         settlement_env_biome[0] + "']/TOPOGRAPHY")
+# Get fourth level for raw materials called raw
 settlement_env_biome_topography_raw = weighted_element_list(xml_file_path, "./ENV/BIOME[@name='" +
                                                             settlement_env_biome[0] + "']/TOPOGRAPHY[@name='" +
                                                             settlement_env_biome_topography[0] + "']/RAW")
@@ -178,15 +173,12 @@ env_biome_topo_raw = "./ENV/BIOME[@name='" + settlement_env_biome[0] + "']/TOPOG
                      settlement_env_biome_topography_raw[0] + "']"
 
 
-
 settlement_population = int(abs(numpy.random.normal(loc = 0, scale = 5000)))
 settlement_shops_num = 1 + (settlement_population // 1500)
 settlement_shops = get_settlement_shops(xml_file_path, env_biome_topo_raw + "/SHOP", settlement_shops_num)
 settlement_district_number = 1 + (settlement_population // 1000)
 settlement_wards = 6 + settlement_population // 100
 settlement_tavern_num = (2 + settlement_population // 500)
-
-
 
 settlement_density = weighted_element_list(xml_file_path, "./STATS/DENSITY")[2]
 settlement_district_info = count_unique_element_dict(xml_file_path, env_biome_topo_raw + "/DISTRICT", settlement_district_number)
@@ -348,5 +340,3 @@ web_page = web_page + '</div>'
 web_page = web_page + '</div></main></body></html>'
 
 write_web_page(web_page, uuid)
-
-#web_get_city(str(settlement_wards), str(randomseed), settlement_name)

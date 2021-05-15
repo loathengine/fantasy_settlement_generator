@@ -5764,10 +5764,12 @@
     <RACE name="halfling" weight="10" desc="3" />
     <RACE name="half-elf" weight="15" desc="3" />
     <RACE name="half-orc" weight="5" desc="3" />
-    <AGE name="new" weight="1" desc="1" />
-    <AGE name="relatively young" weight="3" desc="2" />
+    <AGE name="very young" weight="1" desc="1" />
+    <AGE name="relatively young" weight="2" desc="2" />
     <AGE name="matured" weight="3" desc="3" />
-    <AGE name="quite ancient" weight="1" desc="4" />
+    <AGE name="aging" weight="3" desc="4" />
+    <AGE name="acinet" weight="2" desc="5" />
+    <AGE name="quite ancient" weight="1" desc="6" />
     <GOVERNMENT name="an autocrat" weight="3" desc="A single individual chosen by the people rules the community. This leader’s actual title can vary—mayor, burgomaster, lord, or even royal titles like duke or prince are common." />
     <GOVERNMENT name="the local colonists" weight="3" desc="A group of councilors leads the settlement." />
     <GOVERNMENT name="distant colonists" weight="3" desc="The settlement’s ruler is a figure-head for a distant colonial power: a magistrate, governor, or minor landed noble. He or she may have limited autonomy in running the colony, but ultimately answers to the colony’s founding power. Colonies are typically seen as resources for their founding government, not having much political power or influence.  The colony’s government is more concerned with making sure trade with and taxes paid to the homeland flow efficiently then the welfare of the colony’s inhabitants." />
@@ -5939,13 +5941,13 @@
     <TAVERN_NAME name="The Comet and Neanderthal" weight="3" desc="" />
     <TAVERN_NAME name="The Beetle Tavern" weight="3" desc="" />
     <LABEL name="thorp 1-20" ceiling="1" desc="Really small" />
-    <LABEL name="hamlet 21-60" ceiling="21" desc="3" />
-    <LABEL name="village 61-200" ceiling="61" desc="3" />
-    <LABEL name="small town 201-2,000" ceiling="201" desc="3" />
-    <LABEL name="large town 2,001-5,000" ceiling="2001" desc="3" />
-    <LABEL name="small city 5,001-10,000" ceiling="5001" desc="3" />
-    <LABEL name="large city 10,001-25,000" ceiling="25001" desc="3" />
-    <LABEL name="metropolis 25,000+" ceiling="25002" desc="3" />
+    <LABEL name="hamlet 21-60" ceiling="1" desc="21" />
+    <LABEL name="village 61-200" ceiling="1" desc="61" />
+    <LABEL name="small town 201-2,000" ceiling="1" desc="201" />
+    <LABEL name="large town 2,001-5,000" ceiling="1" desc="2001" />
+    <LABEL name="small city 5,001-10,000" ceiling="1" desc="5001" />
+    <LABEL name="large city 10,001-25,000" ceiling="1" desc="25001" />
+    <LABEL name="metropolis 25,000+" ceiling="1" desc="25002" />
     <DENSITY name="1" weight="1" desc="Inhospitable" />
     <DENSITY name="3" weight="3" desc="Desolate" />
     <DENSITY name="5" weight="9" desc="Arid" />
