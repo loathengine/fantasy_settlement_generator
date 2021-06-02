@@ -7,7 +7,6 @@
 # tavern generator
 # npc generator
 
-import time
 import random
 import string
 import numpy
@@ -126,25 +125,6 @@ def get_settlement_tavern(t_n, t_l):
         xml_dict[tavern_name] = [tavern_location, tavern_description[0], tavern_innkeeper, tavern_menu[0],
                                  tavern_menu[1], tavern_menu[2], tavern_menu[3], tavern_menu[4]]
     return xml_dict
-
-
-def web_get_city(size, seed, name):
-    from selenium import webdriver
-    from selenium.webdriver.firefox.options import Options
-    from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
-    options = Options()
-    options.binary = FirefoxBinary('web/browser/firefox/firefox')
-    options.headless = True
-    driver = webdriver.Firefox(executable_path='web/driver/geckodriver', options=options)
-    driver.set_window_position(0, 0)
-    driver.set_window_size(1024, 1098)
-    driver.get('http://0.0.0.0:8000/MFCG.html?size=' + str(size) + '&seed=' + str(seed) + '&name=' + name)
-    print("Headless Firefox Initialized")
-    time.sleep(8)
-    screenshot = driver.save_screenshot('web/cities/' + str(seed) + '.png')
-    driver.get("http://google.com/")
-    driver.quit()
-
 
 def write_web_page(webout, seed):
     filename = "web/cities/" + seed + ".html"
