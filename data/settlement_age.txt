@@ -3,5 +3,5 @@ very young|1|1
 relatively young|2|2
 matured|3|3
 aging|3|4
-acinet|2|5
+ancient|2|5
 quite ancient|1|6

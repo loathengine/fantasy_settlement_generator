@@ -1,6 +1,6 @@
 key|weight|desc
 1|1|Extravagant
 2|3|Wealthy
-3|5|Average
+3|8|Average
 4|3|Poor
 5|1|Slum

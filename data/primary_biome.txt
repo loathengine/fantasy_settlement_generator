@@ -3,3 +3,5 @@ temperate rain forest
 temperate deciduous forest
 grassland
 savanna
+scrubland
+desert
