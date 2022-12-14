@@ -5,6 +5,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 
 
+
 options = Options()
 options.binary = FirefoxBinary()
 options.headless = False
