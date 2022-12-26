@@ -1,6 +1,6 @@
 key|weight|desc
-Boiled Eggs and Dried Leek, Tankard of Stout (10 cp)
-Roasted Mutton and Dried Turnip, Tankard of Mead (10 cp)
+Boiled Eggs and Dried Leek (10 cp)
+Roasted Mutton and Dried Turnip (10 cp)
 Stewed Onions, Mug of Cider (5 cp)
 Stewed Lentils, Mug of Cider (3 cp)
 Roasted Cabbage, Mug of Stout (4 cp)
@@ -42,3 +42,26 @@ Stewed Lentils (4 cp)
 Re-boiled dried Mutton (10 cp)
 Barley Porridge (3 cp)
 Re-boiled Salt Pork, Biscuits and Gravy (11 cp)
+Beef and Ale Stew: A hearty and flavorful stew made with chunks of tender beef, carrots, potatoes, and onions, simmered in a rich ale broth.
+Venison and Mushroom Pie: A savory pie filled with slices of tender venison and sautéed mushrooms, encased in a flaky pastry crust.
+Spiced Mutton Skewers: Marinated mutton chunks grilled to perfection and served on skewers with a spicy seasoning blend.
+Pork and Apple Roast: A juicy and flavorful pork roast stuffed with sliced apples and seasoned with a blend of herbs and spices.
+Chicken and Leek Soup: A creamy and satisfying soup made with shredded chicken, leeks, and potatoes, flavored with a hint of garlic and herbs.
+Lamb and Lentil Stew: A hearty and satisfying stew made with tender chunks of lamb, lentils, and vegetables, simmered in a rich broth.
+Beef and Barley Soup: A hearty and flavorful soup made with chunks of beef, barley, and vegetables, seasoned with a blend of herbs and spices.
+Beef and Mushroom Pie: A savory pie filled with slices of tender beef and sautéed mushrooms, encased in a flaky pastry crust.
+Grilled Salmon with Lemon Butter: A succulent salmon fillet grilled to perfection and served with a lemon butter sauce.
+Pork and Cabbage Rolls: Thinly sliced pork wrapped around sautéed cabbage and herbs, then baked to perfection.
+Roasted Turkey with Herb Stuffing: A succulent turkey roasted to perfection and stuffed with a savory herb and breadcrumb stuffing.
+Beef and Vegetable Kebabs: Chunks of tender beef and a variety of vegetables grilled to perfection and served on skewers.
+Vegetable and Bean Stew: A hearty and flavorful stew made with a variety of vegetables and beans, simmered in a rich broth.
+Chicken and Mushroom Pasta: A creamy pasta dish made with shredded chicken, sautéed mushrooms, and a rich sauce.
+Beef and Ale Pie: A savory pie filled with chunks of tender beef and a rich ale-based sauce, encased in a flaky pastry crust.
+Grilled Pork Chops with Garlic and Rosemary: Juicy pork chops grilled to perfection and seasoned with a blend of garlic and rosemary.
+Vegetable and Tofu Stir Fry: A flavorful stir fry made with a variety of vegetables and tofu, seasoned with a savory sauce.
+Beef and Potato Stew: A hearty and satisfying stew made with chunks of beef, potatoes, and vegetables, simmered in a rich broth.
+Grilled Shrimp with Lemon and Garlic: Succulent shrimp grilled to perfection and seasoned with a blend of lemon and garlic.
+Chicken and Artichoke Soup: A creamy and flavorful soup made with shredded chicken, artichokes, and vegetables, seasoned with a hint of herbs and spices.
+Pork and Sauerkraut Stew: A hearty and flavorful stew made with tender chunks of pork, sauerkraut, and vegetables, simmered in a rich broth.
+Beef and Bean Chili: A spicy and flavorful chili made with chunks of beef, beans, and a variety of vegetables, seasoned with a blend of spices.
+Chicken and Rice Casserole: A hearty and satisfying casserole made with shredded chicken, rice, and a variety of vegetables, topped with a savory sauce.

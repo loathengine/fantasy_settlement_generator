@@ -1,21 +1,210 @@
 key|weight|desc
-Lower East Fisp|3|
-Tais Town|3|
-Upper East Winwoopt|3|
-Upper West Spadlork|3|
-Pleecerd Vale|3|
-Downtown Scroppand|3|
-Remmest Side|3|
-Midtown Cledard|3|
-West Loattoatnift Grove|3|
-Splofiloast Valley|3|
-Lower East Gald|3|
-South Spleld|3|
-Girveb Road|3|
-Lower South Glostes|3|
-Newup Row|3|
-South Naippais|3|
-Upper Skugailt|3|
-Cloowergost Cross|3|
-Leorioctelf Circle|3|
-Citrine Woods|3|
+Accountant's Arc
+Actors' Annex
+Alchemist's Alley
+Apothecary's Arcade
+Apothecary's Row
+Arcane Quarter
+Arcane Quarter
+Architects' Arcadia
+Archivist's Avenue
+Arctic
+Arena
+Art Gallery
+Artists' Atelier
+Assassin's Alley
+Assassin's Guild
+Bakers' Bazaar
+Bakery
+Ballroom
+Banker's Boulevard
+Bard's Boulevard
+Bard's College
+Beach
+Blacksmith's Bazaar
+Blacksmith's Quarter
+Boarding House Street
+Brewery
+Brewmasters' Brewery
+Broker's Bazaar
+Butchers' Boulevard
+Cartographer's Cove
+Catacombs
+Caverns
+Centaur's Crossing
+Chapel of Rest
+Chefs' Circle
+Chronicler's Circle
+Citrine Woods
+City of the Dead
+Cleric's Cove
+Cleric's Temple
+Cloowergost Cross
+Colosseum
+Confectioners' Cove
+Constable's Court
+Council Chambers
+Crematorium
+Crypts
+Dancers' Dancehall
+Distillers' Den
+Distillery
+Docks
+Downtown Scroppand
+Dragon's Den
+Dragon's Lair
+Druid's Grove
+Dryad's Dell
+Dunes
+Dwarf's Digs
+Economist's Estate
+Eldritch District
+Elfin Estate
+Enchanted Enclave
+Enchanted Market
+Enchantress's Enclave
+Faerie Court
+Faerie Fen
+Farmers' Fields
+Farmland
+Filmmakers' Forum
+Financier's Forum
+Fishermen's Flotilla
+Fish Market
+Fishmongers' Flats
+Food Market
+Foragers' Forest
+Forests
+Fruit and Vegetable Market
+Fruiterers' Fen
+Gardeners' Grove
+Ghetto
+Girveb Road
+Gnome's Garden
+Goblin Ghetto
+Goblin's Glen
+Goblin Warrens
+Governor's Mansion
+Graveyard
+Great Library
+Grocers' Guild
+Guest House Row
+Halfling's Hamlet
+Harbor
+Herbalists' Hollow
+Hidden City
+Historian's Highway
+Hostel Quarter
+Hotel District
+Ice Cream
+Inn Quarter
+Investigator's Inner Circle
+Jeweler's Junction
+Judge's Junction
+Jungle
+Landscapers' Lawn
+Lawyer's Loop
+Leatherworker's Lane
+Leorioctelf Circle
+Librarian's Lane
+Lighthouse
+Lower East Fisp
+Lower East Gald
+Lower South Glostes
+Mage's Guild
+Magistrate's Mall
+Magus's Market
+Mausoleum
+Meadows
+Meat Market
+Memorial Garden
+Merchants' District
+Merchant's Marketplace
+Mermaid's Cove
+Midtown Cledard
+Minotaur's Maze
+Mountains
+Museum
+Musicians' Marquee
+Mythic Meadows
+Necromancer's Necropolis
+Necromancer's Tower
+Necropolis
+Newup Row
+Nobles' Quarter
+Nymph's Nook
+Oasis
+Opera House
+Orchards
+Orc's Outpost
+Outskirts
+Painters' Palette
+Paladin's Keep
+Paladin's Promenade
+Photographers' Plaza
+Pirate's Port
+Pleecerd Vale
+Poets' Piazza
+Poor Quarter
+Potions Brewer's Plaza
+Ranchers' Ranch
+Ranger's Camp
+Ranger's Ridge
+Red Light District
+Remmest Side
+Restaurant Quarter
+Rogue's Road
+Rowdy District
+Royal Palace
+Ruins
+Satyr's Strand
+Savannah
+School of Magic
+Scribe's Street
+Sculptors' Studio
+Secret Market
+Shadow Quarter
+Shantytown
+Sheriff's Square
+Singers' Stage
+Slums
+Smuggler's Shelter
+Sorcerer's Academy
+Sorcerer's Quarter
+South Naippais
+South Spleld
+Spice Market
+Splofiloast Valley
+Sporting Grounds
+Summoner's Summit
+Swamp
+Tailor's Tangle
+Tais Town
+Tanner's District
+Temple of the Gods
+Theater District
+Thief's Den
+Thief's Thoroughfare
+Tomb of the Pharaohs
+Trade Quarter
+Trader's Trail
+Troll's Tunnels
+Tundra
+Underground
+University
+Upper East Winwoopt
+Upper Skugailt
+Upper West Spadlork
+Vineyards
+Vintners' Vineyard
+Warlock's Den
+Warlock's Ward
+Warrior's Way
+Weaver's Quarter
+West Loattoatnift Grove
+Wilderness
+Winery
+Wizard's Tower
+Wizard's Way
+Writers' Wing
+Wyvern's Walk
