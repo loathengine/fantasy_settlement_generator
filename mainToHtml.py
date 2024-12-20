@@ -71,7 +71,7 @@ def all_unique_element_list(xml_file, element, attribute):
 
 
 def count_unique_element_list(xml_file, element, attribute, count):
-    """Takes a file and an element name and returns a unique list of or size count for that element."""
+    """Takes a file and an element name and returns a unique list of size count for that element."""
     tree = ElementTree.parse(xml_file)
     root = tree.getroot()
     xml_list = []
